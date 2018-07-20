@@ -1,0 +1,118 @@
+﻿Trong soạn thảo MS Word, công dụng của tổ hợp phím Ctrl - S là:;1;1;Tạo tệp văn bản mới |Lưu tệp văn bản vào đĩa +|Xóa tệp văn bản |Chèn kí hiệu đặc biệt 
+Thiết bị nào dùng để bắt, chụp hoặc vẽ và chuyển đổi hình ảnh thành thông tin số?;1;1;Máy in |Máy chiếu |Máy quét +|Màn hình cảm ứng 
+Loại phần mềm nào bị ảnh hướng nhất ít nhất bởi tốc độ xử lý đồ hoạ của máy tính?;1;1;Thiết kế đồ họa |Hệ điều hành |Trò chơi |Chỉnh sửa văn bản +
+Phát biểu nào về chức năng của thùng rác (Recycle Bin) là đúng?;1;2;Chỉ lưu trữ các tệp tin bị xóa từ ổ đĩa cứng và các thiết bị lưu trữ di động. |Lưu trữ tất cả các tệp tin bị xóa bỡi người dùng.|Chỉ lưu các tệp tin bị xóa từ ổ đĩa cứng.  +|Lưu các tệp tin bị xóa từ ổ đĩa cứng và ổ đĩa mạng được đặt ở nơi khác
+Lựa chọn góp phần giảm thiểu rủi ro khi mua hàng trực tuyến?;1;2;Hãy chắc chắn rằng trang web này là an toàn và địa chỉ URL hiển thị https +|Mua hàng chỉ trong giờ làm việc |Gửi thông tin thẻ tín dụng chỉ bằng e-mail 
+Để thiết lập các thông số kích thước slide trong Powerpoint 2013 ta thực hiện;1;2;Chọn Design -> Slide Size +|Chọn File -> Slide size |Chọn File -> Print Preview |Chọn Pagelayout -> Page Setup 
+Giáo dục và Đào tạo qua internet thường được gọi là…;1;3;phát thanh qua web (podcasting) |học trực tuyến (e-learning) +|kết nối mạng xã hội |giáo dục tại gia đình |Dạy từ xa 
+Hệ thập phân là gì ?;1;3;Là hệ số đếm những số chia hết cho 10 |Là hệ số đếm dùng 10 ký tự (0,1…9) để biểu diễn giá trị số +|Là hệ số đếm biểu diễn bằng những số 10 chữ số |Tất cả đều đúng 
+Bit là gì?;1;3;Là đơn vị nhỏ nhất của thông tin được sử dụng trong máy tính |là một phần tử nhỏ mang một trong 2 giá trị 0 và 1 |Tất cả đều đúng. +|Là một đơn vị đo thông tin 
+Muốn chuyển sang màn hình của một chương trình ứng dụng khác ấn?;1;4;nhấn tổ hợp phím Alt - Tab +|nhấn tổ hợp phím Esc - Tab |nhấn tổ hợp phím Shift - Tab |nhấn tổ hợp phím Ctrl - Tab 
+Trong soạn thảo văn bản Word, muốn tắt đánh dấu chọn khối văn bản (tô đen), ta thực hiện:;1;4;Bấm phím Space |Bấm phím Enter |Bấm phím Tab |Bấm phím mũi tên di chuyển +
+Các giao thức được sử dụng bởi mạng internet là gì?;1;4;DNS |TCP/IP +|Tất cả các đáp án trên |MTP 
+Cái gì dưới đây là sự kết hợp giữa phần cứng và phần mềm ;1;5;Hệ điều hành |Cơ sở dữ liệu quan hệ |Network +|Phần mềm chia sẻ 
+Đơn vị nào được sử dụng để đo tốc độ của bộ vi xử lý máy tính?;1;5;Megahertz  +|Các điểm/inch |Megabyte |Số vòng/ phút 
+Trong soạn thảo MS Word, công dụng của tổ hợp phím Ctrl - H là:;1;5;Lưu tệp văn bản vào đĩa |Định dạng chữ hoa |hức năng thay thế trong soạn thảo +|Tạo tệp văn bản mới 
+Trong danh sách sau đây liệt kê một cách chính xác các mục từ các thiết bị ngoại vi kết nối tới máy tính?;2;1;Cáp, cổng, card mở rộng, khe cắm mở rộng, bo mạch chủ |Cáp, thẻ mở rộng, cổng, khe cắm mở rộng, bo mạch chủ +|Cáp, cổng, khe cắm mở rộng, card mở rộng, bo mạch chủ |card mở rộng, bo mạch chủ 
+Trong soạn thảo văn bản Word, để đóng một hồ sơ đang mở, ta thực hiện:;2;1;File – Save |File - Close +|File - Exit |File - New 
+Tệp tin nào sẽ cài đặt ứng dụng có tên Contract?;2;1;Contract.png |Contract.hlp |Contract.dll |Contract.exe +
+Trong bảng tính Excel, tại ô A2 có sẵn dữ liệu là dãy kí tự "Tin hoc van phong" Tại ô B2 gõ vào công thức =UPPER(A2) thì nhận được kết quả?;2;2;TIN HOC VAN PHONG +|Tin hoc van phong |Tin hoc van phong |Tin Hoc Van Phong 
+Để tô màu nền cho một slide trong bài trình diễn ta thực hiện trong Powerpoint 2013;2;2;Chọn Slide Show -> Background |Chọn Insert -> Background |Chọn View -> Format Background |Chọn Design -> Format Background +
+Chuẩn mực hoặc nguyên tắc cho phép nhiều các loại máy tính khác nhau giao tiếp được với nhau gọi là…?;2;2;bảng mã |giao thức +|máy chủ |phần mềm truy cập web 
+Trong soạn thảo MS Word, muốn định dạng lại trang giấy in, ta thực hiện:;2;3;File - Print Preview |File - Properties |Insert - Page Setup |Page Layout - Page Setup +
+Chức năng nào là công cụ nâng cao giúp bạn có thể tìm nguyên nhân hệ điều hành khởi động không chính xác?;2;3;Restore System. |System Configuration. +|Resource Monitor. |System Information. 
+Thư mục nào chứa thư đã được gửi tới bạn:;2;4;Out box |Saved mail |Sent items |Inbox +
+Để thoát khỏi một chương trình trong ứng dụng của Windows, ta dùng tổ hợp phím:;2;4;Ctrl – F5 | Alt – F4 +|Alt – F5 |Shift – F4 
+Muốn dùng một hình ảnh nào đó đã có trong đĩa để làm nền cho các slide trong bài thuyết trình, sau khi chọn Design -> Background Style ta chọn trong Powerpoint 2013;2;4;Pattern fill |Gradient fill |Solid fill |Picture or Texture fill +
+Trong soạn thảo văn bản Word, muốn lưu hồ sơ với một tên khác, ta thực hiện;2;5;Window - Save As |Window - Save |File - Save As +|File - Save 
+Những tùy chọn nào hợp lệ trong Document View của Word?;2;5;Print Layout |Read Mode |Web Layout |Tất cả đúng +
+Trong khi làm việc với Excel, muốn lưu bảng tính hiện thời vào đĩa, ta thực hiện;2;5;Edit - Save |Window - Save |File - Save +|Tools - Save 
+Trong soạn thảo Word, muốn trình bày văn bản dạng cột (dạng thường thấy trên các trang báo và tạp chí), ta thực hiện;2;5;View - Column |Page Layout - Column +|Insert - Column |Table - Column 
+Khi đang làm việc với Powerpoint 2013, muốn thiết lập lại bố cục (trình bày về văn bản, hình ảnh, biểu đồ, ...) của Slide, ta thực hiện:;3;1;Insert - Slide Layout... |Home - Slide Layout... +|View - Slide Layout...|Format - Slide Layout... 
+Hãy cho biết mạng xã hội là gì?;3;1;Một chương trình tìm kiếm tài liệu theo từ khóa cụ thể và trả về một danh sách các tài liệu có chứa từ khóa đó |Một chương trình được sử dụng để tạo ra các trang web cộng tác, nâng cao trang web cộng đồng, và cung cấp hệ thống quản lý kiến thức |Một loại trang web thường được duy trì bởi một cá nhân với các mục thường xuyên được bình luận, miêu tả các sự kiện, hoặc tài liệu nào đó. |Một cấu trúc ảo được tạo bởi một số cá nhân được ràng buộc bởi một hoặc nhiều loại mối quan hệ cụ thể +
+Trong Excel, tại ô A2 có giá trị là số 10, ô B2 có giá trị là số 3. Tại ô C2 gõ công thức =MOD(A2,B2) thì nhận được kết quả:;3;1;10 |3|1 +|#Value!
+Sau khi thiết kế xong bài trình diễn trong Powerpoint 2013, cách nào sau đây không phải để trình chiếu ngay bài trình diễn đó?;3;2;Nhấn phím F5 |Chọn Slide Show -> From Beginning|Chọn Slide Show -> Chọn Cusstom Slide Show +|Chọn biểu tượng Slide Show dưới thanh bar 
+Trong soạn thảo MS Word, công dụng của tổ hợp Ctrl - F là:;3;2;Định dạng trang |Lưu tệp văn bản vào đĩa |Tạo tệp văn bản mới |Mở trình điều hướng văn bản +
+Khi đang soạn thảo văn bản MS Word, muốn phục hồi thao tác vừa thực hiện thì bấm tổ hợp phím:;3;2;Ctrl – Z |Ctrl - V |Ctrl - Y +|Ctrl – X 
+Một ví dụ về Internet đang được sử dụng để tạo điều kiện hỗ trợ học tập là gì?;3;3;Mua vé trực tuyến|Hoàn thành một khóa học trực tuyến +|Cộng tác trên một dự án làm việc |Truyền dữ liệu
+Trong bảng tính Excel, để lọc dữ liệu tự động, sau khi chọn khối cần lọc, ta thực hiện:;3;3;Data - Filter +|Insert - Filter |Format - Filter |View - Filter
+Ba phát biểu nào sau đây là đúng với công cụ Disk Cleanup?;3;4;Loại bỏ virus làm chậm máy tính|Loại bỏ các địa chỉ Internet ít sử dụng nhất từ thư mục Favorites|Loại bỏ các tệp tin tạm của Windows, dọn dẹp thùng rác (Recycle Bin)+|Loại bỏ hình ảnh có kích thước lớn không được hiển thị gần đây
+Dữ liệu là gì?;3;4;Là các số liệu hoặc là tài liệu cho trước chưa được xử lý|Tất cả đều đúng+|Là khái niệm có thể được phát sinh, lưu trữ, tìm kiếm, sao chép, biến đổi… |Là các thông tin được thể hiện dưới nhiều dạng khác nhau.
+Thiết bị vào nào được sử dụng chủ yếu với mục đích bảo mật?;3;4;Tất cả đều sai |Máy quét vân tay+|Đầu đọc thẻ |Sự nhận biết dấu hiệu chữ quang học của máy tính 
+Anh (chị) sử dụng chương trình nào của Windows để quản lý các tệp và thư mục?;3;5;Microsoft Office|Accessories|Control Panel |Windows Explorer +
+Trong bảng tính Excel, hàm nào sau đây cho phép tính tổng các giá trị kiểu số thỏa mãn một điều kiện cho trước?;3;5;SUMIF +|COUNTIF|SUM|COUNT
+Trong email có dòng này, “Fwd: Re: Metting” là cái gì?;4;1;File đính kèm |Dòng chủ đề+|Địa chỉ người gửi |Địa chỉ người nhận 
+Các số “168.191.11” là 1 ví dụ của………;4;1;chứng đối số |bộ nhớ đếm|địa chỉ ip +|cookie
+Trong MS Word, để thuận tiện hơn trong khi lựa chọn kích thước lề trái, lề phải,..., ta có thể khai báo đơn vị đo:;4;1;Đơn vị đo bắt buộc là Centimeters |Đơn vị đo bắt buộc là Inches|Centimeters/Inches/Point +|Đơn vị đo bắt buộc là Points
+Trong soạn thảo MS Word, muốn định dạng văn bản theo kiểu danh sách, ta thực hiện:;4;2;Tools - Bullets and Numbering|Home - Bullets and Numbering+|Insert - Bullets and Numbering|Layout - Bullets and Numbering
+Để tạo một slide giống hệt slide hiện hành Powerpoint 2013 mà không phải thiết kế lại, người sử dụng cần chọn;4;2;Không thực hiện được |Vào Home -> chọn New slide -> Duplicate slide +|Vào Insert -> chọn Duplicate |Vào Home -> chọn Duplicate 
+Trong khi đang soạn thảo văn bản Word, tổ hợp phím Ctrl - V thường được sử dụng để:;4;2;Cắt và sao chép một đoạn văn bản |Sao chép một đoạn văn bản|Cắt một đoạn văn bản |Dán một đoạn văn bản từ Clipboard+
+Lựa chọn nào có thể được cấu hình bằng công cụ Parental Control?;4;3;Hồ sơ cá nhân của người dùng mà mình đang giao tiếp. |Số giờ một người có thể sử dụng máy tính+|Các loại từ mà người sử dụng có thể được sử dụng trong trình xử lý văn bản|Số lượng video có thể xem
+Trong khi soạn thảo văn bản, nếu kết thúc 1 đoạn (Paragraph) và muốn sang 1 đoạn mới:;4;3;Word tự động, không cần bấm phím |Bấm phím Enter +|Bấm tổ hợp phím Ctrl - Enter |Bấm tổ hợp phím Shift - Enter 
+Trong bảng tính Excel, nếu trong một ô tính có các kí hiệu #####, điều đó có nghĩa là gì?;4;3;Chương trình bảng tính bị nhiễm virus |Hàng chứa ô đó có độ cao quá thấp nên không hiển thị hết chữ số |Cột chứa ô đó có độ rộng quá hẹp nên không hiển thị hết chữ số +|Công thức nhập sai và Excel thông báo lỗi 
+Thông tin nào sẽ ảnh hưởng ít nhất đến sự riêng tư cá nhân của bạn nếu bạn đăng tải thông tin đó trên 1 diễn đàn trực tuyến;4;4;tên của bạn  |địa chỉ e-mail |thành phố nơi bạn sinh ra |đường dẫn đến các trang web bạn thích +
+Chọn phương án ghép đúng nói về thuật ngữ tin học trong các câu sau : Tin học là ;4;4;ngành khoa học về xử lý thông tin tự động dựa trên máy tính điện tử  +|áp dụng máy tính trong các hoạt động xử lý thông tin|máy tính và các công việc liên quan đến máy tính điện tử |lập chương trình cho máy tính 
+Hãy chọn phương án ghép đúng nhất : Máy tính trở thành công cụ lao động không thể thiếu được trong xã hội hiện đại vì :;4;4;Máy tính cho ta khả năng lưu trữ và xử lý thông tin+|Máy tính giúp cho con người giải tất cả các bài toán khó |Máy tính là công cụ soạn thảo văn bản và cho ta truy cập vào Internet để tìm kiếm thông tin.|Máy tính tính toán cực kì nhanh và chính xác 
+Nền văn minh thông tin gắn liền với loại công cụ nào ;4;5;Động cơ hơi nước |Máy điện thoại |Máy tính điện tử +|Máy phát điện 
+Hãy chọn phương án ghép đúng : Tin học là một ngành khoa học vì đó là ngành  ;4;5;nghiên cứu máy tính điện tử |nghiên cứu máy tính điện tử |được sinh ra trong nền văn minh thông tin|có nội dung, mục tiêu, phương pháp nghiên cứu riêng+
+Phát biểu nào sau đây là không chính xác ? ;4;5;Dung lượng bộ nhớ ngày càng tăng |Dung lượng đĩa cứng ngày càng tăng |Giá thành máy tính ngày càng tăng +|Tốc độ máy tính ngày càng tăng 
+Chọn phát biểu đúng trong các câu sau;5;1;Một byte có  8  bits +|RAM là bộ nhớ ngoài|Dữ  liệu là thông tin |Đĩa mềm là bộ nhớ trong 
+Chọn phát biểu đúng trong các câu sau ;5;1;8 bytes  =  1  bit |CPU là vùng nhớ đóng vai trò trung gian giữa bộ nhớ và các thanh ghi .|Đĩa cứng là bộ nhớ trong |Dữ  liệu là thông tin đã được đưa vào trong máy tính +
+Chọn phát biểu đúng trong các câu sau ;5;1;Hệ thập lục phân sử dụng 10 chữ số từ  0  đến  9|Hệ thập lục phân sử dụng 10 chữ số từ  0  đến  9 và  6  chữ  cái  A , B , C , D , E , F +|Hệ thập lục phân sử dụng 2 chữ số từ  0 và 1|Hệ thập lục phân sử dụng 7 chữ  cái  I , V , X , L , C , D . M
+Chọn câu đúng;5;2;1MB = 1024KB+|1B = 1024 Bit|1KB = 1024MB|1Bit= 1024B
+Hãy chọn phương án ghép đúng : Thông tin là ;5;2;tất cả những gì mang lại cho con người hiểu biết +|dữ liệu của máy tính |tin tức thu nhận được qua các phương tiện truyền thông |các tín hiệu vật lý 
+Hãy chọn phương án ghép đúng : 1 KB bằn;5;2;210 bit |1024 byte +|Cả A và B đều sai |Cả A và B đều đúng
+Thông tin là gì ;5;3;Các văn bản và số liệu |Hiểu biết của con người về một thực thể, sự vật, khái niệm, hiện tượng nào đó +|Văn bản, Hình ảnh, Âm thanh |Hình ảnh, âm thanh 
+Mùi vị là thông tin;5;3;Dang phi số|Dạng số|Chưa có khả năng thu thập, lưu trữ và xử lý được+|Vừa là dạng số vừa là dạng phi số
+Mã nhị phân của thông tin là;5;3;Dãy bit biểu diễn thông tin đó trong máy tính+|Số trong hệ thập lục	|Số trong hệ nhị phân|Số trong hệ hexa
+Phát biểu nào sau đây là phù hợp nhất về khái niệm bit ? ;5;4;Đơn vị đo khối lượng kiến thức |Chính chữ số 1 |Đơn vị đo lượng thông tin  +|Một số có 1 chữ số 
+Hãy chọn phương án ghép đúng nhất . Byte là  :;5;4;số lượng bit đủ để mã hóa được một chữ cái trong bảng chữ cái Tiếng Anh|một đơn vị đo dung lượng  bộ nhớ của máy tính +|một đơn vị quy ước theo truyền thống để đo lượng thông tin|lượng thông tin 16 bit 
+Sách giáo khoa thường chúa thông tin dưới dạng ;5;4;văn bản|hình ảnh|âm thanh|văn bản, hình ảnh
+Trong các hệ đếm dưới đây, hệ đếm nào được dùng trong Tin học :;5;5;hệ đếm cơ số 16|hệ đếm cơ số thập phân |hệ đếm cơ số nhị phân|cả 3 đều đúng +
+Hãy chọn phương án ghép đúng nhất . Số kí tự chuẩn của bộ mã ASCII là ;5;5;256+|128|512|255
+1 byte bằng bao nhiêu bit ? ;5;5;2|10|8+|6
+Dãy bit nào dưới đây là biểu diễn nhị phân của số  “ 31 “  trong hệ thập phân ?;6;1;1101010|1010010 |0011111 +|1100110
+Dãy bit nào dưới đây là biểu diễn nhị phân của số  “ 65 “  trong hệ thập phân ?;6;1;11010111 |01000001 +|10010110 |10101110
+Dãy 10101 ( trong hệ nhị phân)  biểu diễn số nào trong hệ thập phân;6;1;21 +|9|39|15
+Dãy bit nào dưới đây là biểu diễn nhị phân của số “ 2 ” trong hệ thập phân ? ;6;2;10 +|01|11|00
+Biểu diễn thập phân của số Hexa “ 1EA ” là : ( có nghĩa là  1EA  có giá trị bằng bao nhiêu );6;2;250 |700|490 +|506 
+Biểu diễn thập phân của số HEXA “ 2BC ” là : ( có nghĩa là  2BC  có giá trị bằng bao nhiêu );6;2;250|490 |506|700+
+Chọn phát biểu đúng trong các câu sau :   ;6;3;Bộ nhớ ngoài là các đĩa cứng , đĩa mềm, Ram, ROM,  . |Bộ nhớ ngoài là các đĩa cứng , đĩa mềm , đĩa CD, thiết bị Flash. +|Bộ nhớ trong là các đĩa cứng , đĩa mềm .|Bộ nhớ ngoài có  ROM  và  RAM .  
+Chọn phát biểu đúng trong các câu sau;6;3;Hệ nhị phân sử dụng các chữ số  1  và  2 .|Hệ thập phân sử dụng các chữ số  từ 0 đến 9 và A, B, C, D, E, F .|RAM  là bộ nhớ trong , là nơi có thể ghi , xoá thông tin trong lúc làm việc+|ROM  là bộ nhớ trong , là nơi có thể ghi , xoá thông tin trong lúc làm việc 
+Chọn phát biểu đúng trong các câu sau;6;3;CPU là bộ nhớ .|Một byte có  8  bits .+|RAM là bộ nhớ ngoài.|Đĩa mềm là bộ nhớ trong .
+Chọn phát biểu đúng trong các câu sau :   ;6;4;Dữ  liệu là thông tin đã được đưa vào trong máy tính .  +|CPU là vùng nhớ đóng vai trò trung gian giữa bộ nhớ và các thanh ghi .|Đĩa cứng là bộ nhớ trong .|8 bytes  =  1  bit .   
+Phát biểu nào sau đây là đúng :;6;4;Máy tính dùng hệ đếm La Mã để biểu diễn số|Bộ nhớ là thành phần phải có của mọi máy tính   +|Màn hình và bàn phím là các thiết bị không quan trọng của một máy tính|Cả A và B
+Chọn câu phát biểu đúng nhất . Thiết bị ra là :;6;4;Màn hình|Bàn phím.|Máy in|Mà hình và bàn phím
+Hãy chọn phương án ghép đúng : Hiện nay dung lượng thông thường của đĩa mềm là ;6;5;3 MB |1.44 MB+|1.44 KB |2.44 MB 
+Hãy chọn phương án ghép đúng nhất : Các bộ phận chính trong sơ đồ cấu trúc máy tính gồm: ;6;5;CPU ,bộ nhớ trong/ngoài, thiết bị vào/ra   +|Bàn phím và con chuột |Máy quét và ổ cứng |Màn hình và máy in 
+Các thành phần chính trong sơ đồ cấu trúc máy tính thường gồm :;6;5;CPU và bộ nhớ (trong/ngoài)|Thiết bị vào và ra |Màn hình và máy in|CPU và bộ nhớ (trong/ngoài),Thiết bị vào và ra +
+Hãy chọn phương án ghép đúng nhất : Bộ nhớ chính (bộ nhớ trong) bao gồm ;7;1;thanh ghi và ROM |thanh ghi và RAM |ROM và RAM +|cache và ROM 
+Hãy chọn phương án ghép đúng nhất : ROM là bộ nhớ dùng để ;7;1;chứa hệ điều hành MS DOS |người dùng có thể xóa hoặc cài đặt chương trình vào |chứa các dữ liệu quan trọng |chứa các chương trình hệ thống được hãng sản xuất cài đặt sẵn và người dùng thường không thay đổi được+
+Hãy chọn phương án đúng nhất :Hệ thống tin học gồm các thành phần  : ;7;1;Người quản lí, máy tính và Internet |Sự quản lí và điều khiển của con người, phần cứng và phần mềm +|Máy tính, phần mềm và dữ liệu |Máy tính, mạng và phần mềm
+Chọn phát biểu sai trong các câu sau ;7;2;Máy tính xử  lí đồng thời nhiều byte chứ  không xử  lí từng byte +|Máy tính xử  lí đồng thời một dãy bit chứ  không xử  lí từng bit .|Các bộ phận của máy tính nối với nhau bởi các dây dẫn gọi là các tuyến |Modem là một thiết bị hỗ trợ cho cả việc đưa thông tin vào và lấy thông tin ra .
+Chọn phát biểu sai trong các câu sau :;7;2;Bộ nhớ ngoài dùng để lưu trữ  lâu dài các thông tin và hỗ trợ cho bộ nhớ trong .|Các thông tin lưu trữ trong bộ nhớ ngoài sẽ không mất khi tắt máy.|Thanh ghi là vùng nhớ đặc biệt được  CPU  sử dụng để lưu trữ  tạm thời các lệnh và dữ liệu đang  xử  lí .|Bộ nhớ trong dùng để lưu trữ  lâu dài các thông tin và hỗ trợ cho bộ nhớ ngoài  +
+Bộ nhớ nào sau đây có tốc độ truy cập dữ liệu nhanh nhất;7;2;ROM|RAM|Bộ nhớ truy cập nhanh (Cache)|Thanh ghi (Register)  +
+Thiết bị nào vừa là thiết bị vào vừa là thiết bị ra;7;3;Máy chiếu|Modem+|Bàn phím|Chuột
+Lệnh máy tính không chứa các thành phần nào sau đây ? ;7;3;Mã của thao tác cần thực hiện |Địa chỉ của ô nhớ toán hạng |Địa chỉ của chính lệnh máy   +|Địa chỉ của ô nhớ kết quả 
+Hãy chọn phương án ghép đúng . Trong máy tính, ổ đĩa cứng là thiết bị ;7;3;chuyên dùng để làm thiết bị vào|chuyên dùng để làm thiết bị ra|Cả A,b đều sai   +|Cả A,b đều đúng
+Hãy chọn phương án ghép đúng : Trong tin học sơ đồ khối là ;7;4;Ngôn ngữ lập trình bậc cao |Sơ đồ mô tả thuật toán+|Sơ đồ về cấu trúc máy tính |Sơ đồ thiết kế vi điện tử 
+Hãy chọn phương án ghép đúng . Chương trình dịch là chương trình ;7;4;Chuyển đổi ngôn ngữ máy sang ngôn ngữ lập trình bậc cao|Chuyển đổi chương trình viết bằng hợp ngữ hoặc ngôn ngữ lập trình bậc cao sang ngôn ngữ máy +|Chuyển đổi hợp ngữ sang ngôn ngữ lập trình bậc cao|Chuyển đổi ngôn ngữ máy sang hợp ngữ .
+Hãy chọn phương án ghép đúng . Chương trình dịch là chương trình :;7;4;Chuyển đổi các ngôn ngữ lập trình khác sang ngôn ngữ máy +|Chuyển đổi ngôn ngữ máy sang ngôn ngữ bậc cao|Chuyển đổi hợp ngữ sang ngôn ngữ lập trình bậc cao|Cả A B C đúng
+Hãy chọn phát biểu đúng . Ngôn ngữ lập trình là :;7;5;Ngôn ngữ máy|Hợp ngữ |Ngôn ngữ bậc cao|Cả 3 câu đều đúng +
+Hãy chọn phương án ghép đúng nhất . Một chương trình là : ;7;5;một dãy các lệnh chỉ dẫn cho máy tính tìm được Output từ Input +|sản phẩm của việc diễn tả một thuật toán bằng một ngôn ngữ mà máy tính có thể thực hiện được|một diễn tả thuật toán được viết trong một ngôn ngữ lập trình|một bản chỉ dẫn ( ra lệnh ) cho máy tính giải quyết một bài toán
+Khi dùng máy tính giải toán ta cần quan tâm đến các yếu tố :    ;7;5;Đưa vào máy thông tin gì  ( Input ) |Cần lấy ra thông tin gì  |Phương pháp giải toán .   |Đưa vào máy thông tin gì  ( Input ),Cần lấy ra thông tin gì  + 
+Hãy chọn phát biểu hợp lý nhất về khái niệm phần mềm :;8;1;Phần mềm gồm chương trình máy tính và cách tổ chức dữ liệu|Phần mềm gồm chương trình máy tính, tài liệu về cách tổ chức dữ liệu và các tài liệu hướng dẫn khác +|Phần mềm gồm chương trình máy tính và dữ liệu đi kèm|Phần mềm gồm các chương trình máy tính để làm ra các chương trình máy tính khác
+Hãy chọn phương án ghép đúng . Phần mềm hệ thống :;8;1;có chức năng giám sát và điều phối thực hiện các chương trình   +|còn được gọi là chương trình giám sát|còn có tên khác là phần mềm ứng dụng|là phần mềm cài đặt trong máy tính bỏ túi
+Chọn câu phát biểu đúng . Phần mềm ứng dụng bao gồm : ;8;1;Phần mềm tiện ích|Phần mềm đóng gói|Phần mềm công cụ (phần mềm phát triển)|Cả 3 câu đều đúng .  +
+Một vài ứng dụng chính của Tin học là :  ;8;2;Giải các bài toán khoa học kĩ thuật .  |Tự  động hoá và điều khiển .  |Giáo dục .  |Cả  ba câu  a , b , c  đều đúng . +
+Một vài ứng dụng chính của Tin học là :  ;8;2;Giải các bài toán quản lí .  |Truyền thông |Soạn thảo , in ấn , lưu trữ , văn phòng .   |Cả  ba câu  a , b , c  đều đúng . +
+Một vài ứng dụng chính của Tin học là :  ;8;2;Trí tuệ nhân tạo |Tự  động hoá và điều khiển .  |Giải trí |Cả  ba câu  A_,B_,C_  đều đúng .   +
+Để phát triển Tin học cần có :  ;8;3;Một xã hội có tổ chức trên cơ sở pháp lí chặt chẽ .   |Một đội ngũ lao động có trí tuệ .  |Câu  a  sai và câu  b  đúng .  |Cả hai câu  a , b  đều đúng . +
+Tìm câu sai trong các câu nói về chức năng của Hệ điều hành dưới đây :;8;3;Đảm bảo giao tiếp giữa người dùng và hệ thống (máy tính)|Tổ chức quản lý và sử dụng một cách tối ưu tài nguyên của máy tính|Thực hiện tìm kiếm thông tin trên mạng INTERNET +|Cung cấp phương tiện để thực hiện các chương trình khác 
+Hãy chọn câu ghép đúng . Hệ điều hành là  :;8;3;Phần mềm ứng dụng|Phần mềm tiện ích|Phần mềm hệ thống   |Phần mềm công cụ
+Hãy chọn câu ghép đúng . Hệ điều hành là  :;8;4;Phần mềm hệ thống   +|Phần mềm ứng dụng|Phần mềm văn phòng|Cả 2 câu a, b đều đúng
+Hãy chọn phương án ghép đúng nhất . Các hệ điều hành thông dụng hiện nay thường được lưu trữ ở đâu : ;8;4;Trên bộ nhớ ngoài  +|Trong CPU |Trong RAM|Trong ROM
+Hệ điều hành nào dưới đây không phải là hệ điều hành đa nhiệm nhiều người dùng ?;8;4;Windows 2000|MS-DOS    +|UNIX|Linux
+Hãy chọn phương án ghép đúng . Trong tin học, tệp (tập tin) là khái niệm chỉ;8;5;một văn bản|một đơn vị lưu trữ  thông tin trên bộ nhớ ngoài   +|một gói tin|một trang web
+Hãy chọn phương án ghép đúng . Trong tin học, thư mục là một;8;5;tệp đặc biệt không có phần mở rộng|tập hợp các tệp và thư mục con   +|phần ổ đĩa chứa một tập hợp các tệp (tập tin) .|mục lục để tra cứu thông tin
+Đối với hệ điều hành Windows, tên tệp nào trong các tên tệp sau đây là không hợp lệ :;8;5;onthitotnghiep.doc|bai8pas|lop?cao.a    +|bangdiem.xls

@@ -1,0 +1,11 @@
+Tin Học Cơ Bản;1;2016-2017;90
+﻿Trong soạn thảo MS Word, công dụng của tổ hợp phím Ctrl - S là:;1;1;1.0;Tạo tệp văn bản mới |Lưu tệp văn bản vào đĩa +|Xóa tệp văn bản |Chèn kí hiệu đặc biệt 
+Thiết bị nào dùng để bắt, chụp hoặc vẽ và chuyển đổi hình ảnh thành thông tin số?;1;1;1.0;Máy in |Máy chiếu |Máy quét +|Màn hình cảm ứng 
+Loại phần mềm nào bị ảnh hướng nhất ít nhất bởi tốc độ xử lý đồ hoạ của máy tính?;1;1;1.0;Thiết kế đồ họa |Hệ điều hành |Trò chơi |Chỉnh sửa văn bản +
+Phát biểu nào về chức năng của thùng rác (Recycle Bin) là đúng?;1;2;1.0;Chỉ lưu trữ các tệp tin bị xóa từ ổ đĩa cứng và các thiết bị lưu trữ di động. |Lưu trữ tất cả các tệp tin bị xóa bỡi người dùng.|Chỉ lưu các tệp tin bị xóa từ ổ đĩa cứng.  +|Lưu các tệp tin bị xóa từ ổ đĩa cứng và ổ đĩa mạng được đặt ở nơi khác
+Lựa chọn góp phần giảm thiểu rủi ro khi mua hàng trực tuyến?;1;2;1.0;Hãy chắc chắn rằng trang web này là an toàn và địa chỉ URL hiển thị https +|Mua hàng chỉ trong giờ làm việc |Gửi thông tin thẻ tín dụng chỉ bằng e-mail 
+Khi dùng máy tính giải toán ta cần quan tâm đến các yếu tố :    ;7;5;1.0;Đưa vào máy thông tin gì  ( Input ) |Cần lấy ra thông tin gì  |Phương pháp giải toán .   |Đưa vào máy thông tin gì  ( Input ),Cần lấy ra thông tin gì  + 
+Trong khi làm việc với Excel, muốn lưu bảng tính hiện thời vào đĩa, ta thực hiện;2;5;1.0;Edit - Save |Window - Save |File - Save +|Tools - Save 
+Muốn dùng một hình ảnh nào đó đã có trong đĩa để làm nền cho các slide trong bài thuyết trình, sau khi chọn Design -> Background Style ta chọn trong Powerpoint 2013;2;4;1.0;Pattern fill |Gradient fill |Solid fill |Picture or Texture fill +
+Thư mục nào chứa thư đã được gửi tới bạn:;2;4;1.0;Out box |Saved mail |Sent items |Inbox +
+Hãy chọn phương án ghép đúng nhất : Máy tính trở thành công cụ lao động không thể thiếu được trong xã hội hiện đại vì :;4;4;1.0;Máy tính cho ta khả năng lưu trữ và xử lý thông tin+|Máy tính giúp cho con người giải tất cả các bài toán khó |Máy tính là công cụ soạn thảo văn bản và cho ta truy cập vào Internet để tìm kiếm thông tin.|Máy tính tính toán cực kì nhanh và chính xác 

@@ -1,0 +1,7 @@
+﻿IT101;Tin Học Cơ Bản;9;Hướng dẫn sinh viên làm quen với máy tính
+IT3080;Mạng máy tính;5;Tìm hiểu mạng và các giao thức liên quan
+IT3090;Cơ sở dữ liệu;6;Tìm hiểu cơ sở dữ liệu
+SS6010;Triết học;8;Giúp sinh viên có cái nhìn cơ bản về triết học
+IT5620;Xử lý dữ liệu đa phương tiện;5;Các cách xử lý file media
+IT6365;Web ngữ nghĩa;6;Không có mô tả
+IT6050;Trí tuệ nhân tạo nâng cao;4;Không có mô tả

@@ -1,0 +1,126 @@
+Bài thi môn: Tin Học Cơ Bản
+
+Kỳ: 1 - Năm học:2016-2017
+
+Thời gian: 90 phút 
+
+
+
+
+
+Câu 1 (1.0 điểm): ﻿Trong soạn thảo MS Word, công dụng của tổ hợp phím Ctrl - S là:
+
+A.    Tạo tệp văn bản mới 
+
+B.    Lưu tệp văn bản vào đĩa 
+
+C.    Xóa tệp văn bản 
+
+D.    Chèn kí hiệu đặc biệt 
+
+
+
+Câu 2 (1.0 điểm): Thiết bị nào dùng để bắt, chụp hoặc vẽ và chuyển đổi hình ảnh thành thông tin số?
+
+A.    Máy in 
+
+B.    Máy chiếu 
+
+C.    Máy quét 
+
+D.    Màn hình cảm ứng 
+
+
+
+Câu 3 (1.0 điểm): Loại phần mềm nào bị ảnh hướng nhất ít nhất bởi tốc độ xử lý đồ hoạ của máy tính?
+
+A.    Thiết kế đồ họa 
+
+B.    Hệ điều hành 
+
+C.    Trò chơi 
+
+D.    Chỉnh sửa văn bản 
+
+
+
+Câu 4 (1.0 điểm): Phát biểu nào về chức năng của thùng rác (Recycle Bin) là đúng?
+
+A.    Chỉ lưu trữ các tệp tin bị xóa từ ổ đĩa cứng và các thiết bị lưu trữ di động. 
+
+B.    Lưu trữ tất cả các tệp tin bị xóa bỡi người dùng.
+
+C.    Chỉ lưu các tệp tin bị xóa từ ổ đĩa cứng.  
+
+D.    Lưu các tệp tin bị xóa từ ổ đĩa cứng và ổ đĩa mạng được đặt ở nơi khác
+
+
+
+Câu 5 (1.0 điểm): Lựa chọn góp phần giảm thiểu rủi ro khi mua hàng trực tuyến?
+
+A.    Hãy chắc chắn rằng trang web này là an toàn và địa chỉ URL hiển thị https 
+
+B.    Mua hàng chỉ trong giờ làm việc 
+
+C.    Gửi thông tin thẻ tín dụng chỉ bằng e-mail 
+
+
+
+Câu 6 (1.0 điểm): Khi dùng máy tính giải toán ta cần quan tâm đến các yếu tố :    
+
+A.    Đưa vào máy thông tin gì  ( Input ) 
+
+B.    Cần lấy ra thông tin gì  
+
+C.    Phương pháp giải toán .   
+
+D.    Đưa vào máy thông tin gì  ( Input ),Cần lấy ra thông tin gì  + 
+
+
+
+Câu 7 (1.0 điểm): Trong khi làm việc với Excel, muốn lưu bảng tính hiện thời vào đĩa, ta thực hiện
+
+A.    Edit - Save 
+
+B.    Window - Save 
+
+C.    File - Save 
+
+D.    Tools - Save 
+
+
+
+Câu 8 (1.0 điểm): Muốn dùng một hình ảnh nào đó đã có trong đĩa để làm nền cho các slide trong bài thuyết trình, sau khi chọn Design -> Background Style ta chọn trong Powerpoint 2013
+
+A.    Pattern fill 
+
+B.    Gradient fill 
+
+C.    Solid fill 
+
+D.    Picture or Texture fill 
+
+
+
+Câu 9 (1.0 điểm): Thư mục nào chứa thư đã được gửi tới bạn:
+
+A.    Out box 
+
+B.    Saved mail 
+
+C.    Sent items 
+
+D.    Inbox 
+
+
+
+Câu 10 (1.0 điểm): Hãy chọn phương án ghép đúng nhất : Máy tính trở thành công cụ lao động không thể thiếu được trong xã hội hiện đại vì :
+
+A.    Máy tính cho ta khả năng lưu trữ và xử lý thông tin
+
+B.    Máy tính giúp cho con người giải tất cả các bài toán khó 
+
+C.    Máy tính là công cụ soạn thảo văn bản và cho ta truy cập vào Internet để tìm kiếm thông tin.
+
+D.    Máy tính tính toán cực kì nhanh và chính xác 
+
